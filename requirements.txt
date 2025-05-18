@@ -1,0 +1,6 @@
+ langchain==0.1.14
+ langchain-chroma==0.0.6
+ chromadb==0.4.24
+ langchain-groq
+ langchainhub
+ langchain-community
